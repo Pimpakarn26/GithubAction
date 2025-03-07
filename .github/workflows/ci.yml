@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print a message
-        run: echo "SE NPRU000"
+        run: echo "SE NPRU"
